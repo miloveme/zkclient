@@ -24,7 +24,7 @@ public interface DataUpdater<T extends Object> {
 
     /**
      * Updates the current data of a znode.
-     * 
+     * test
      * @param currentData
      *            The current contents.
      * @return the new data that should be written back to ZooKeeper.
